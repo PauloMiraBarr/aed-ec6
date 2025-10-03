@@ -1,3 +1,9 @@
+/* Alumnos:
+* Paulo Isael Miranda Barrientos
+* Elmer Jose Manuel Villegas Suarez
+* Jose Daniel Huaman Rosales
+*/
+
 #include <iostream>
 #include <vector>
 #include <queue>
