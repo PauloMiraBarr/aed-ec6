@@ -1,3 +1,9 @@
+/* Alumnos:
+* Paulo Isael Miranda Barrientos
+* Elmer Jose Manuel Villegas Suarez
+* Jose Daniel Huaman Rosales
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
